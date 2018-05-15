@@ -1,1 +1,2 @@
-
+## In this couse, we will teach students to use R doing basic time series analysis.
+library("tseries")
